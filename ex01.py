@@ -5,3 +5,4 @@ class Coordenadas:
 ponto = Coordenadas()
 print(ponto.x)
 print(ponto.y)
+# CLASSES
