@@ -1,6 +1,7 @@
-pe = 4
+class Coordenadas:
+    x = 5
+    y = 10
 
-if pe >= 4:
-    print("LALALA")
-else:
-    print("LELELE")
+ponto = Coordenadas()
+print(ponto.x)
+print(ponto.y)
