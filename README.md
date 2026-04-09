@@ -1,2 +1,1 @@
-# aula-ads-senai
-"# aula-ads-senai" 
+Aula sobre GitHub SENAI Taubaté 
